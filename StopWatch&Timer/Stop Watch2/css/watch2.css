@@ -137,15 +137,21 @@ li {
 }
 #hour1 {
 	grid-area: area-a;
-	font-size: 6.5em;
+	font-size: 100px;
+	margin: 0;
+	padding: 0;
 }
 #minute1 {
 	grid-area: area-b;
-	font-size: 6.5em;
+	font-size: 100px;
+	margin: 0;
+	padding: 0;
 }
 #second1 {
 	grid-area: area-c;
-	font-size: 6.5em;
+	font-size: 100px;
+	margin: 0;
+	padding: 0;
 }
 #start1 {
 	grid-area: start;
@@ -220,14 +226,20 @@ li {
 #hour2 {
 	grid-are: area-a;
 	font-size: 100px;
+	margin: 0;
+	padding: 0;
 }
 #minute2 {
 	grid-area: area-b;
 	font-size: 100px;
+	margin: 0;
+	padding: 0;
 }
 #second2 {
 	grid-area: area-c;
 	font-size: 100px;
+	margin: 0;
+	padding: 0;
 }
 #start2 {
 	grid-area: start;
@@ -316,14 +328,20 @@ li {
 #hour3 {
 	grid-are: area-a;
 	font-size: 100px;
+	margin: 0;
+	padding: 0;
 }
 #minute3 {
 	grid-area: area-b;
 	font-size: 100px;
+	margin: 0;
+	padding: 0;
 }
 #second3 {
 	grid-area: area-c;
 	font-size: 100px;
+	margin: 0;
+	padding: 0;
 }
 #start3 {
 	grid-area: start;
@@ -412,14 +430,20 @@ li {
 #hour4 {
 	grid-are: area-a;
 	font-size: 100px;
+	margin: 0;
+	padding: 0;
 }
 #minute4 {
 	grid-area: area-b;
 	font-size: 100px;
+	margin: 0;
+	padding: 0;
 }
 #second4 {
 	grid-area: area-c;
 	font-size: 100px;
+	margin: 0;
+	padding: 0;
 }
 #start4 {
 	grid-area: start;
@@ -508,14 +532,20 @@ li {
 #hour5 {
 	grid-are: area-a;
 	font-size: 100px;
+	margin: 0;
+	padding: 0;
 }
 #minute5 {
 	grid-area: area-b;
 	font-size: 100px;
+	margin: 0;
+	padding: 0;
 }
 #second5 {
 	grid-area: area-c;
 	font-size: 100px;
+	margin: 0;
+	padding: 0;
 }
 #start5 {
 	grid-area: start;
@@ -604,14 +634,20 @@ li {
 #hour6 {
 	grid-are: area-a;
 	font-size: 100px;
+	margin: 0;
+	padding: 0;
 }
 #minute6 {
 	grid-area: area-b;
 	font-size: 100px;
+	margin: 0;
+	padding: 0;
 }
 #second6 {
 	grid-area: area-c;
 	font-size: 100px;
+	margin: 0;
+	padding: 0;
 }
 #start6 {
 	grid-area: start;
