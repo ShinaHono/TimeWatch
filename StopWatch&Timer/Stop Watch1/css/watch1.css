@@ -226,14 +226,20 @@ li {
 #hour2 {
 	grid-are: area-a;
 	font-size: 100px;
+	margin: 0;
+	padding: 0;
 }
 #minute2 {
 	grid-area: area-b;
 	font-size: 100px;
+	margin: 0;
+	padding: 0;
 }
 #second2 {
 	grid-area: area-c;
 	font-size: 100px;
+	margin: 0;
+	padding: 0;
 }
 #start2 {
 	grid-area: start;
@@ -322,14 +328,20 @@ li {
 #hour3 {
 	grid-are: area-a;
 	font-size: 100px;
+	margin: 0;
+	padding: 0;
 }
 #minute3 {
 	grid-area: area-b;
 	font-size: 100px;
+	margin: 0;
+	padding: 0;
 }
 #second3 {
 	grid-area: area-c;
 	font-size: 100px;
+	margin: 0;
+	padding: 0;
 }
 #start3 {
 	grid-area: start;
@@ -418,14 +430,20 @@ li {
 #hour4 {
 	grid-are: area-a;
 	font-size: 100px;
+	margin: 0;
+	padding: 0;
 }
 #minute4 {
 	grid-area: area-b;
 	font-size: 100px;
+	margin: 0;
+	padding: 0;
 }
 #second4 {
 	grid-area: area-c;
 	font-size: 100px;
+	margin: 0;
+	padding: 0;
 }
 #start4 {
 	grid-area: start;
@@ -514,14 +532,20 @@ li {
 #hour5 {
 	grid-are: area-a;
 	font-size: 100px;
+	margin: 0;
+	padding: 0;
 }
 #minute5 {
 	grid-area: area-b;
 	font-size: 100px;
+	margin: 0;
+	padding: 0;
 }
 #second5 {
 	grid-area: area-c;
 	font-size: 100px;
+	margin: 0;
+	padding: 0;
 }
 #start5 {
 	grid-area: start;
@@ -610,14 +634,20 @@ li {
 #hour6 {
 	grid-are: area-a;
 	font-size: 100px;
+	margin: 0;
+	padding: 0;
 }
 #minute6 {
 	grid-area: area-b;
 	font-size: 100px;
+	margin: 0;
+	padding: 0;
 }
 #second6 {
 	grid-area: area-c;
 	font-size: 100px;
+	margin: 0;
+	padding: 0;
 }
 #start6 {
 	grid-area: start;
@@ -668,23 +698,4 @@ li {
 #wrapMessage6 {
 	grid-area: 
 		areaBot;
-}
-
-@media (max-width: 768px) {
-	.container {
-		margin: 0 auto; /*これによりブロック要素を真ん中に持ってくる*/
-		text-align: center;
-		display: grid;
-		width: 700px;
-		height: 400px;
-		grid-template-rows: 10% 10% 55% 25%;
-		grid-template-columns: 10% 30% 30% 30%;
-		grid-template-areas: 
-			"deleteIcon1 title title title"
-			"deleteIcon1 areaA areaB areaC"
-			"deleteIcon1 area-a area-b area-c"
-			"deleteIcon1 start stop reset"
-			;
-	}
-
 }
