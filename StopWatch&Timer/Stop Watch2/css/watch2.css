@@ -137,15 +137,15 @@ li {
 }
 #hour1 {
 	grid-area: area-a;
-	font-size: 100px;
+	font-size: 6.5em;
 }
 #minute1 {
 	grid-area: area-b;
-	font-size: 100px;
+	font-size: 6.5em;
 }
 #second1 {
 	grid-area: area-c;
-	font-size: 100px;
+	font-size: 6.5em;
 }
 #start1 {
 	grid-area: start;
